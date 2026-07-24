@@ -8,40 +8,36 @@
 
 <hr>
 
-<table border="0" width="100%">
-<tr>
-<td width="55%" valign="top">
-<h2 align="center">🚀 About Me</h2>
-<p>Soy un Ingeniero y Analista de Datos en Bogotá, enfocado en construir pipelines robustos y soluciones visuales.</p>
-<p>Actualmente me encuentro desarrollando <strong>System-Store</strong>, una aplicación SaaS para la gestión y facturación de negocios, integrando tecnologías como Python, Streamlit y Supabase.</p>
+<h2 align="center">🛠️ Stack Tecnológico</h2>
+
 <br>
+
+<h3 align="center">Ingeniería de Datos & Backend</h3>
 <div align="center">
-<h3>🛠️ Mi Stack Tecnológico</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/T--SQL-004685?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" />
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="DAX & Power BI" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/T--SQL-004685?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
-</td>
-<td width="45%" valign="top">
-<h2 align="center">📊 Mis Estadísticas Reales</h2>
+
 <br>
+
+<h3 align="center">Análisis de Datos & Visualización</h3>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Niquin90&color=3B82F6&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas" />
-<br><br>
-<img src="https://img.shields.io/github/repos/Niquin90?style=for-the-badge&logo=github&color=3B82F6&label=REPOSITORIOS+PUBLICOS" alt="Repositorios" />
-<br><br>
-<img src="https://img.shields.io/github/followers/Niquin90?style=for-the-badge&logo=github&color=3B82F6&label=SEGUIDORES" alt="Seguidores" />
-<br><br>
-<a href="https://github.com/Niquin90/powerbi_capturas_project">
-<img src="https://img.shields.io/github/last-commit/Niquin90/powerbi_capturas_project?style=for-the-badge&logo=github&color=3B82F6&label=ULTIMO+COMMIT+(POWER+BI)" alt="Último Commit" />
-</a>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" alt="DAX" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
 </div>
-</td>
-</tr>
-</table>
+
+<br>
+
+<h3 align="center">Automatización & Herramientas</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 <hr>
 
