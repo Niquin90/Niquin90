@@ -1,4 +1,3 @@
-<!-- BANNER SUPERIOR ANIMADO CON TU INFO -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hola,+soy+Nicolas+Mancera;Ingeniero+y+Analista+de+Datos" alt="Typing SVG" />
 </div>
@@ -9,17 +8,14 @@
 
 ---
 
-<!-- ESTRUCTURA PRINCIPAL DE DASHBOARD (TABLA INVISIBLE) -->
 <table border="0" width="100%">
   <tr>
-    <!-- COLUMNA IZQUIERDA: SOBRE MÍ Y STACK -->
     <td width="50%" valign="top">
       <h2>🚀 About Me</h2>
       <p>Soy un Ingeniero y Analista de Datos enfocado en construir soluciones eficientes y visuales que faciliten la toma de decisiones basada en datos.</p>
       <br>
       <div align="center">
         <h3>🛠️ Mi Stack Tecnológico</h3>
-        <!-- He usado tus mismas insignias, centradas -->
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
         <img src="https://img.shields.io/badge/T--SQL-004685?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" />
         <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
@@ -29,10 +25,8 @@
       </div>
     </td>
     
-    <!-- COLUMNA DERECHA: ESTADÍSTICAS Y ACTIVIDAD -->
     <td width="50%" valign="top">
       <h2>📊 Mis Estadísticas</h2>
-      <!-- AQUÍ ESTÁ LA MAGIA CORREGIDA: Tarjeta completa y transparente -->
       <div align="center">
         <a href="https://github.com/Niquin90">
           <img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E" alt="GitHub Stats" width="100%" />
@@ -43,7 +37,6 @@
       
       <div align="center">
         <h3>🧩 Top Languages</h3>
-        <!-- Tarjeta de lenguajes compacta y transparente -->
         <a href="https://github.com/Niquin90">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niquin90&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E" alt="Top Languages" width="100%" />
         </a>
@@ -52,19 +45,15 @@
   </tr>
 </table>
 
-<!-- SECCIÓN DE ACTIVIDAD RECIENTE (AUTOMÁTICA CON PLUGIN) -->
 ---
 <h3 align="center">⚡ Recent Activity</h3>
 
-<!-- Este plugin crea un feed dinámico de tus commits, PRs, etc. -->
-<!-- Puedes personalizarlo más si usas el plugin github-activity-readme -->
 <div align="center">
-  <img src="https://github-activity-readme.vercel.app/api?username=Niquin90&limit=5&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E"alt="Recent Activity Feed" />
+  <img src="https://github-activity-readme.vercel.app/api?username=Niquin90&limit=5&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E" alt="Recent Activity Feed" />
 </div>
 
 <br>
 
-<!-- BOTÓN DE CONEXIÓN AL FINAL -->
 <div align="center">
   <a href="https://www.linkedin.com/in/nicolas-mancera">
     <img src="https://img.shields.io/badge/LinkedIn-connect-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Connect" />
