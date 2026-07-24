@@ -6,7 +6,7 @@
 <p><em>Transformando datos complejos en decisiones estratégicas y visuales.</em></p>
 </div>
 
----
+<hr>
 
 <table border="0" width="100%">
 <tr>
@@ -26,6 +26,7 @@
 </td>
 <td width="50%" valign="top">
 <h2 align="center">📊 Mis Estadísticas</h2>
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Total--Stars-0-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Stars" />
 <img src="https://img.shields.io/badge/Total--Commits--2028-10-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
@@ -33,26 +34,15 @@
 <img src="https://img.shields.io/badge/Total--Issues-0-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Issues" />
 <img src="https://img.shields.io/badge/Contributed--to-0-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Contributed to" />
 <br>
-<img src="https://img.shields.io/badge/Profile--Grade-A%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Grade" />
-</div>
 <br>
-<div align="center">
-<h3>🧩 Top Languages</h3>
-<div align="center">
-<p><em>Cuando añadas archivos de código públicos (.py, .sql, etc.), esta sección mostrará tus lenguajes principales.</em></p>
-<ul>
-<li>Python</li>
-<li>T-SQL</li>
-<li>Power BI (DAX)</li>
-<li>Streamlit</li>
-</ul>
-</div>
+<img src="https://img.shields.io/badge/Profile--Grade-A%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Grade" />
 </div>
 </td>
 </tr>
 </table>
 
----
+<hr>
+
 <h3 align="center">⚡ Recent Activity</h3>
 <div align="center">
 <ul>
