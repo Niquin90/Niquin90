@@ -28,14 +28,14 @@
 <h2 align="center">📊 Mis Estadísticas</h2>
 <div align="center">
 <a href="https://github.com/Niquin90">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Niquin90&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E" alt="GitHub Stats" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=8B949E" alt="GitHub Stats" width="100%" />
 </a>
 </div>
 <br>
 <div align="center">
 <h3>🧩 Top Languages</h3>
 <a href="https://github.com/Niquin90">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Niquin90&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E" alt="Top Languages" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niquin90&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=8B949E" alt="Top Languages" width="100%" />
 </a>
 </div>
 </td>
