@@ -1,12 +1,14 @@
+<!-- Banner Superior Sencillo y Estable -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/canvas?type=waving&color=auto&height=120&section=header&text=¡Hola,%20bienvenido!&fontSize=35" alt="Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=00b4d8&center=true&vCenter=true&width=500&lines=¡Hola,+bienvenido+a+mi+perfil!" alt="Typing SVG" />
 </p>
 
-<table>
+<!-- Estructura del Dashboard -->
+<table border="0" width="100%">
   <tr>
-    <!-- Columna Izquierda: Sobre mí y tecnologías -->
+    <!-- COLUMNA IZQUIERDA: Sobre Mí y Stack -->
     <td width="55%" valign="top">
-      <h2>🚀 Sobre Mí</h2>
+      <h3>🚀 Sobre Mí</h3>
       <p>Soy un apasionado de la tecnología enfocado en la ingeniería y análisis de datos. Me encanta transformar datos en soluciones eficientes y visuales.</p>
       
       <h3>🛠️ Mi Stack Tecnológico</h3>
@@ -17,10 +19,12 @@
       </p>
     </td>
     
-    <!-- Columna Derecha: Tarjeta de Estadísticas -->
+    <!-- COLUMNA DERECHA: Métricas y Estadísticas -->
     <td width="45%" valign="top">
-      <h2>📊 Mis Estadísticas</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="100%" />
+      <h3>📊 Mis Estadísticas</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" width="100%" />
+      </p>
     </td>
   </tr>
 </table>
