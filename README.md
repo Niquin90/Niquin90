@@ -50,14 +50,14 @@
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Nicolas" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Nicolas" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niquin90&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="160" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niquin90&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 <br />
