@@ -1,17 +1,10 @@
 <div align="center">
-
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Hola,+soy+Nicolas+Mancera;Ingeniero+y+Analista+de+Datos;Data+Engineer+%7C+Analytics+%7C+BI" alt="Typing SVG" />
 
   <p><strong>Transformando datos complejos en soluciones escalables, métricas claras y decisiones estratégicas.</strong></p>
 
   <a href="https://www.linkedin.com/in/nicolas-mancera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-email@dominio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
@@ -51,27 +44,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
-
----
-
-## 🌟 Proyectos Destacados
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📌 Pipeline ETL con PySpark</h3>
-      <p>Procesamiento masivo de datos e ingesta automatizada a base de datos relacionales.</p>
-      <p><b>Tech:</b> Python, PySpark, T-SQL, Supabase</p>
-      <a href="https://github.com/tu-usuario/tu-repo-1">👉 Ver Repositorio</a>
-    </td>
-    <td width="50%">
-      <h3 align="center">📊 Dashboard de Negocios en Power BI</h3>
-      <p>Modelado de datos en estrella y métricas avanzadas DAX para la toma de decisiones.</p>
-      <p><b>Tech:</b> Power BI, DAX, SQL</p>
-      <a href="https://github.com/tu-usuario/tu-repo-2">👉 Ver Repositorio</a>
-    </td>
-  </tr>
-</table>
 
 ---
 
