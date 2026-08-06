@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/nicolas-mancera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Niquin90&style=for-the-badge&color=3B82F6" alt="Visitor Count" />
 </div>
 
 <br />
@@ -14,10 +15,11 @@
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente trabajando en **pipelines de datos end-to-end y dashboards de alto impacto**.
+- 🔭 Actualmente construyendo **dashboards de Power BI con visuales HTML/CSS/SVG generados 100% desde DAX**, para seguimiento de ventas, cumplimiento y KPIs jerárquicos.
 - 🛠️ Enfoque principal: **ETL/ELT, Arquitectura de Datos, Modelado Dimensional y Business Intelligence**.
 - ⚡ Intereses: Automatización de procesos, analítica avanzada y optimización de consultas SQL/PySpark.
-- 📬 Puedes contactarme para colaboraciones en proyectos de **Data Engineering y Analytics**.
+- 🎓 Estudiante universitario, combinando formación en estadística/cálculo con proyectos reales de datos.
+- 📬 Abierto a colaboraciones en proyectos de **Data Engineering y Analytics**.
 
 ---
 
@@ -35,21 +37,38 @@
 <p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/DAX-114B82?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
 ### 🔹 Control de Versiones & Herramientas
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 </p>
 
 ---
 
 ## 📈 Estadísticas de GitHub
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Nicolas" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niquin90&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="160" /> </div> <br /> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niquin90&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" /> </div> <br /> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Niquin90&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofeos de GitHub" /> </div> <br /> <div align="center"> <p><i>💡 "Without data, you're just another person with an opinion." — W. Edwards Deming</i></p> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de Nicolas" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niquin90&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="160" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niquin90&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Niquin90&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofeos de GitHub" />
+</div>
+
+<br />
 
 <div align="center">
   <p><i>💡 "Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
