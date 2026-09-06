@@ -10,14 +10,28 @@ Soy un **Ingeniero de Datos y Desarrollador de Software** apasionado por constru
 
 <br>
 
-<h3 align="left">📈 Mis Estadísticas y Rendimiento</h3>
+<h2 align="center">🛠️ Stack Tecnológico</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Niquin90&show_icons=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&border_color=30363D&border_radius=8&count_private=true" alt="Estadísticas de Nicolas" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niquin90&layout=compact&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&border_color=30363D&border_radius=8&langs_count=6" alt="Lenguajes más usados" height="195" />
+  <h3>Ingeniería & Big Data</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="ADF" />
+  <img src="https://img.shields.io/badge/T--SQL-004685?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="T-SQL" />
+</div>
+
+<div align="center">
+  <h3>Business Intelligence & Desarrollo</h3>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-114B82?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
 <br>
+
+<h2 align="center">📈 Mis Contribuciones y Actividad</h2>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Niquin90&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakNum=ffffff&sideNums=C9D1D9&currStreakLabel=3B82F6&sideLabels=C9D1D9&dates=8B949E&border=30363D&border_radius=8" alt="Racha de contribuciones" height="195" />
@@ -25,6 +39,13 @@ Soy un **Ingeniero de Datos y Desarrollador de Software** apasionado por constru
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Niquin90&bg_color=0D1117&color=C9D1D9&line=3B82F6&point=ffffff&area_color=3B82F6&area=true&hide_border=true&custom_title=Flujo%20de%20Trabajo%20Anual" alt="Actividad de contribuciones" width="90%" />
+</div>
+
+<br>
+
+<!-- Avatar animado a la derecha -->
 <a href="https://github.com/Niquin90">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="160" align="right" alt="Avatar Animado" />
 </a>
