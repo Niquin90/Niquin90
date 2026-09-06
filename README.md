@@ -1,9 +1,5 @@
 <h2 align="left">Hi, I'm Nico (Niquin) 👋 👨🏻‍💻</h2>
 
-<div align="center">
-  <img src="https://github.com/Niquin90/Niquin90/blob/main/Banner.jpeg?raw=true" alt="Nicolas Mancera - Data Engineer Banner" width="100%" />
-</div>
-
 <br>
 
 Soy un **Ingeniero de Datos y Desarrollador de Software** apasionado por construir arquitecturas escalables, diseñar pipelines de ETL eficientes y gestionar grandes volúmenes de información en la nube. Disfruto trabajando con el ciclo de vida completo del dato utilizando herramientas como **Python, PySpark, Databricks y SQL**. Mi enfoque está en automatizar procesos y generar métricas claras que impacten estratégicamente la toma de decisiones, casi siempre con una buena taza de café y mi gata Melody acompañándome en el proceso.
